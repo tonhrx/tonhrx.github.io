@@ -252,7 +252,7 @@
 
 })()
   var typed = new Typed('.typed', {
-    strings: ["Designer", "Developer", "Freelancer", "Photographer"],
+    strings: ["3D Artist Jr", "Game Dev Jr", "Freelancer", "IT Specialist"],
     typeSpeed: 50,
     backSpeed: 50,
     loop: true
