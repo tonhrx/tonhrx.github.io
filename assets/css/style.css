@@ -28,12 +28,6 @@ body::before {
   height: 100vh;
   z-index: -1;
 }
-typing {
-      strings: ["Coder", "Developer", "AI Enthusiast"];
-      loop: true;
-      typeSpeed: 65;
-      backSpeed: 65;
-}
 
 @media (min-width: 1024px) {
   body::before {
